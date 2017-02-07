@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Use at your own risk
 # WARNING: Only target this script against computer systems you own, or have permission to probe.
 
 import requests
